@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/a-sleep-routine-i-try-to-follow/","noteIcon":"","created":"2025-09-22T19:50:05.692+05:30","updated":"2025-09-22T19:54:43.407+05:30"}
+{"dg-publish":true,"permalink":"/a-sleep-routine-i-try-to-follow/","noteIcon":"","created":"2025-09-22T19:50:05.692+05:30","updated":"2025-09-22T20:23:48.142+05:30"}
 ---
 
 
@@ -15,7 +15,7 @@ All of my friends have bad and unhealthy sleep cycles. I too have a bad, irregul
 So here’s what I’m planning to do (post conversations with GPT and reading books) to improve my sleep schedule:
 
 1. I end the day with 3 bullet points for tasks I have to do the next day. I bought this really nice pad that really enables one to do that. (cap it @ 2mins max; don’t overthink it)
-	![[todo-next-day-sample-for-blog.jpeg \| 300]]
+	![[Media/todo-next-day-sample-for-blog.jpeg \| 300]]
 
 
 2. I change into my “night dress”. Now there’s no actual need to do this, but this sends a clear signal to your brain that the work day is over and you cannot do anymore work.
