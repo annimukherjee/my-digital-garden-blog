@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/consumption-log/","noteIcon":"","created":"2025-09-22T19:04:04.270+05:30","updated":"2025-09-22T19:27:30.496+05:30"}
+{"dg-publish":true,"permalink":"/consumption-log/","noteIcon":"","created":"2025-09-22T19:04:04.270+05:30","updated":"2025-09-22T19:48:28.069+05:30"}
 ---
 
 
@@ -28,7 +28,7 @@ So, I’m keeping this consumption log, where I log media that I consume. Think 
 
 3. Found this startup by an 18 year old called [https://starcy.ai/](https://starcy.ai/). It feels like it's a [Poke](https://poke.com/) clone except created by Indian founders. Really exciting.
 
-4. [https://youtu.be/4qUr5QnBRzg?si=oXSoZBgHzaFJmDcV](https://youtu.be/4qUr5QnBRzg?si=oXSoZBgHzaFJmDcV)
+4. Jefferson Fisher's [Mastering Tough Conversations: Effective Strategies for Better Communication](https://youtu.be/4qUr5QnBRzg?si=oXSoZBgHzaFJmDcV)
 	1. Set aside time
 	2. “I need your help” (puts both of you on the same team)
 	    1. I need your help to know how to feel about X
@@ -37,6 +37,15 @@ So, I’m keeping this consumption log, where I log media that I consume. Think 
 	3. End with “I feel X about our conversation”
 	    1. I feel more settled post our conversation
 	    2. I feel calmer and more happy post our conversation
+
+5. Jefferson Fisher's [How to Sound Assertive: Tips for Confident Communication](https://www.youtube.com/watch?v=HuF6cMePYTA)
+	1. “No” is a complete sentence
+	2. Don’t say “Sorry” all the time. Don't apologise for your existence! Just don't say sorry!
+		1. sorry for disturbing you
+		2. sorry for this; 
+		3. sorry, thank you
+	3. Incomplete
+6. Setup by digital garden blog today post watching [this YouTube video](https://www.youtube.com/watch?v=7f8e5IiUkeo&t=1s) and going through the docs [here](https://dg-docs.ole.dev/)!
 
 
 
